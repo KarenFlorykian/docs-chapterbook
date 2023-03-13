@@ -1,6 +1,6 @@
 ---
-title: Example book - draft outline
-permalink: /outline
+title: Reports example
+permalink: /reports
 layout: page
 ---
 
