@@ -1,10 +1,10 @@
 remote_theme: jasongrimes/jekyll-chapterbook
 
 # Configurations
-title:            Jekyll Chapterbook
-longtitle:        Jekyll Chapterbook
-author:           Jason Grimes
-email:            jason@grimesit.com
+title:            Carrier Installation guide
+longtitle:        Carrier Installation guide
+author:           Carrier Installation guide
+email:            Carrier Installation guide@gmail.com
 description: >
   A Jekyll theme based on GitBook with support for chapters and parts.
 
@@ -18,7 +18,7 @@ copyright:
   link_slug: 
 
 # Customize the link favicon in header. Will be {{site.baseurl}}/{{site.favicon_path}}
-favicon_path: /assets/gitbook/images/favicon.ico
+favicon_path: https://secure.gravatar.com/avatar/239237ae32821db0c4f45eb64a33407a.jpg
 
 #
 # Navigation menus
