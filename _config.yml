@@ -26,7 +26,7 @@ favicon_path: https://secure.gravatar.com/avatar/239237ae32821db0c4f45eb64a33407
 
 # Links shown above the TOC in the sidebar
 sidebar_nav_top:
-- label: About this theme
+- label: About Non-funcitonal testing
   url: /
 
 # Links shown below the TOC in the sidebar
